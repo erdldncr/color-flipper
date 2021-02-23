@@ -16,9 +16,7 @@ header{
     font-size: 1rem;
 }
 
-.btn-color{
-    color: aqua;
-}
+
 .container{
     height: 100vh;
     display: flex;
@@ -43,3 +41,4 @@ header{
     border-radius: 4px;
     font-size: 1.4rem;
 }
+.active{}
